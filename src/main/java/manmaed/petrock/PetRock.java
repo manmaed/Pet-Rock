@@ -6,6 +6,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import manmaed.petrock.creativetab.PetRockTab;
+import manmaed.petrock.entity.PREntitys;
 import manmaed.petrock.libs.Reference;
 import manmaed.petrock.proxy.CommonProxy;
 import net.minecraft.creativetab.CreativeTabs;
@@ -34,16 +35,27 @@ public class PetRock {
     //Forge Events
 
     //Pre init
+    @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
         //Do Stuff
+        proxy.preInit();
+        //PRBlocks.load();
+        //PRItems.load();
+        PREntitys.load();
+        //PRRecipes.load();
+
     }
 
     //init
+    @Mod.EventHandler
     public void Init(FMLInitializationEvent event) {
         //Do Stuff
+        proxy.init();
+        proxy.renderInformation();
     }
 
     //Post Init
+    @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event) {
         //Do Stuff
     }

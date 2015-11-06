@@ -19,5 +19,5 @@ public class Textures {
 
 
     // Model textures
-    public static final ResourceLocation MODEL_PET_ROCK_FOLLOWING = ResourceLocationHelper.getResourceLocation(MODEL_SHEET_LOCATION + "GreenPuppy.png");
+    public static final ResourceLocation MODEL_PET_ROCK_FOLLOWING = ResourceLocationHelper.getResourceLocation(MODEL_SHEET_LOCATION + "PetRockFollow.png");
 }

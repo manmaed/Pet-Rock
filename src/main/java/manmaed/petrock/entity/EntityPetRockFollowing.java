@@ -1,6 +1,7 @@
 package manmaed.petrock.entity;
 
 import net.minecraft.entity.EntityAgeable;
+import net.minecraft.entity.SharedMonsterAttributes;
 import net.minecraft.entity.ai.*;
 import net.minecraft.entity.passive.EntityAnimal;
 import net.minecraft.entity.player.EntityPlayer;
@@ -28,6 +29,12 @@ public class EntityPetRockFollowing extends EntityAnimal {
         this.tasks.addTask(7, new EntityAILookIdle(this));
     }
 
+    protected void applyEntityAttributes()
+    {
+        super.applyEntityAttributes();
+        this.getEntityAttribute(SharedMonsterAttributes.maxHealth).setBaseValue(5.0D);
+        this.getEntityAttribute(SharedMonsterAttributes.movementSpeed).setBaseValue(0.35D);
+    }
 
     public EntityPetRockFollowing spawnBabyAnimal(EntityAgeable par1EntityAgeable)
     {

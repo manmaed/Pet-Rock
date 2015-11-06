@@ -5,17 +5,17 @@ import net.minecraft.client.model.ModelRenderer;
 import net.minecraft.entity.Entity;
 import net.minecraft.util.MathHelper;
 
-public class PetRockFollowing extends ModelBase
+public class ModelPetRockFollowing extends ModelBase
 {
   //fields
-    ModelRenderer Leg1;
-    ModelRenderer Leg2;
-    ModelRenderer Body;
-    ModelRenderer Arm1;
-    ModelRenderer Arm2;
-    ModelRenderer head;
+    public ModelRenderer Leg1;
+    public ModelRenderer Leg2;
+    public ModelRenderer Body;
+    public ModelRenderer Arm1;
+    public ModelRenderer Arm2;
+    public ModelRenderer head;
   
-  public PetRockFollowing()
+  public ModelPetRockFollowing(float par1)
   {
     textureWidth = 64;
     textureHeight = 32;
@@ -51,8 +51,8 @@ public class PetRockFollowing extends ModelBase
       Arm2.mirror = true;
       setRotation(Arm2, 0F, 0F, 0F);
       head = new ModelRenderer(this, 24, 0);
-      head.addBox(-3F, -5F, -1F, 6, 5, 6);
-      head.setRotationPoint(0F, 13F, -2F);
+      head.addBox(-3F, -5F, -3F, 6, 5, 6);
+      head.setRotationPoint(0F, 13F, 0F);
       head.setTextureSize(64, 32);
       head.mirror = true;
       setRotation(head, 0F, 0F, 0F);
