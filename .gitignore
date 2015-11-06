@@ -5,14 +5,14 @@
 *.war
 *.ear
 
+# Winodws #
+*.db
+
 # IDEA Files #
 *.iml
 *.ipr
 *.iws
 /.idea
-
-# Windows #
-*.db
 
 # Eclipse #
 /bin
@@ -23,6 +23,8 @@
 /.metadata
 
 # Gradle #
+gradle.properties
 /.gradle
 /build
 /libs
+/lib

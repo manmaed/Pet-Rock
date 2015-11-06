@@ -41,6 +41,14 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 
 }
+curse {
+    projectId = project.projectId
+    apiKey = project.curseForgeApiKey
+    releaseType = 'beta'
+	displayName = "Pet-Rock - 0.0.1 "
+	changelog = System.getenv("CHANGELOG").equals("none") ? getChangelogText() : System.getenv("CHANGELOG")
+	addGameVersion '1.7.10'
+}
 
 
 processResources

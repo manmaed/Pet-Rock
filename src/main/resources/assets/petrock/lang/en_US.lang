@@ -9,48 +9,31 @@ item.canisterLove.name=Love Canister
 item.canisterEmptyLove.name=Empty Love Canister
 item.itemPetRock.name=Pet Rock
 item.crushedStone.name=Crushed Stone
-item.PetriumPickaxe.name=Petrium Pickaxe
-
-
-#TileEntitys
-tile.petrockCrate.name=Petrock Crate
 
 
 #Keys
-key.Category=Petrock
+key.Category=Pet Rock
 key.Hello=Hi!
 
 
 #InfoLine
 Info.wip=W.I.P
 matterPetrium.info1=This is a matter! 
-PetriumPickaxe.info1=Special Abilities:
-PetriumPickaxe.info2=- Crushing
-PetriumPickaxe.info3=- Silk touching Glass
-PetriumPickaxe.info4=Uses Remaining:
-
-
-#WAILA
-Waila.petrockCrate.Body=Fill the crate with these items to unlock it:
+matterPetrium.info2=Press Shift For More Info.
 
 
 #Configuration
-Config.useItemPetRock=Use the Petrock Spawn Item. (If it is false then it will use the default spawn egg.)
+Config.useItemPetRock=Use the Pet Rock Spawn Item. (If it is false then it will use the default spawn egg.)
 
 
 #ChatHelper
 Chat.Hello=Hi
-Chat.PetRockTime=It's Petrock Time!
-
-
-#Commands
-command.Reload.usage=/Petrock Reload
-command.Reload.success=Configuration Reloaded!
+Chat.PetRockTime=It's Pet Rock Time!
 
 
 #Entity's
-entity.entityPetRock.name=Petrock
+entity.entityPetRock.name=Pet Rock
 
 
 #CreativeTab
-itemGroup.PetRock=Petrock
+itemGroup.PetRock=Pet Rock
