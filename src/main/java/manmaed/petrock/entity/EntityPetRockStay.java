@@ -32,7 +32,7 @@ public class EntityPetRockStay extends EntityAnimal {
     protected void applyEntityAttributes()
     {
         super.applyEntityAttributes();
-        this.getEntityAttribute(SharedMonsterAttributes.maxHealth).setBaseValue(5.0D);
+        this.getEntityAttribute(SharedMonsterAttributes.maxHealth).setBaseValue(1.0D);
         this.getEntityAttribute(SharedMonsterAttributes.movementSpeed).setBaseValue(0.00D);
     }
 

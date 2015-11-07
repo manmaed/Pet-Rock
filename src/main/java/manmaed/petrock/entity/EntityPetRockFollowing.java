@@ -36,6 +36,7 @@ public class EntityPetRockFollowing extends EntityAnimal {
         this.getEntityAttribute(SharedMonsterAttributes.movementSpeed).setBaseValue(0.35D);
     }
 
+
     public EntityPetRockFollowing spawnBabyAnimal(EntityAgeable par1EntityAgeable)
     {
         return new EntityPetRockFollowing(this.worldObj);
