@@ -11,6 +11,8 @@ public class PREntitys {
 
         /* EntityHelper.registerEntity(EntityClassName.class, "Name",  bkEggColor, dotEggColor); */
         EntityHelper.registerEntity(EntityPetRockFollowing.class, "PetRockFollowing", 0x292929, 0xd6d6d6);
+        EntityHelper.registerEntity(EntityPetRockStay.class, "PetRockStay", 0xd6d6d6, 0x292929);
+
     }
 
 }
