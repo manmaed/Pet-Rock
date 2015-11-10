@@ -5,6 +5,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import manmaed.petrock.blocks.PRBlocks;
 import manmaed.petrock.creativetab.PetRockTab;
 import manmaed.petrock.entity.PREntitys;
 import manmaed.petrock.libs.Reference;
@@ -39,7 +40,7 @@ public class PetRock {
     public void preInit(FMLPreInitializationEvent event) {
         //Do Stuff
         proxy.preInit();
-        //PRBlocks.load();
+        PRBlocks.load();
         //PRItems.load();
         PREntitys.load();
         //PRRecipes.load();
