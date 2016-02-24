@@ -17,7 +17,7 @@ Section 3: Distribution
 	
 	A. This Mod source code may only be on Github or other sites that are owned by Github
 	B. You may use less then 25% of this mod source code in your mod with out perms and credit, if the code is less then 50% but more
-	then 25% you most ask.
+	then 25% you must ask.
 	C. If you want to use more then 50% of my code you can't.
 	D. The Owner or Co-Owner may use his code in another or from another of his mod with out perms/credits.
 	E. This Mod may be distributed on Curse, CurseForge or others unless it was stated elsewhere in this License
