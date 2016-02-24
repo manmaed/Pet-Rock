@@ -3,11 +3,13 @@ Manmaeds Custom License:
 The Pet-Rock is under this License
 
 Section 1: Terms
+
 	A. This Mod or other similar terms mean Pet-Rock.
 	B. The term Owner means Manmaed
 	C. The term Co-Owner means UnRealDinnerBone
 
 Section 2: License
+
 	A. This License may be changed at anytime with out others consent
 	B. If the License changes and someone is then breaking the license they have 30 days to comply with the new license before legal action may be taken.  	
 
