@@ -23,7 +23,6 @@
 /.metadata
 
 # Gradle #
-gradle.properties
 /.gradle
 /build
 /libs
