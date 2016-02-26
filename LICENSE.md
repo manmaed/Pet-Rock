@@ -7,6 +7,7 @@ Section 1: Terms
 	A. This Mod or other similar terms mean Pet-Rock.
 	B. The term Owner means Manmaed
 	C. The term Co-Owner means UnRealDinnerBone
+	E. The Only License that should be followed on all branches is the one on the main branch! 
 
 Section 2: License
 
@@ -35,6 +36,7 @@ Section 3B: Mod Packs
 Section 4: Owner Rights
 
 	A. The Owner or Co-Owner reverses the right to ask the removal of The Mod from any pack. There mod must be removed form the pack with in 10 days of the Owner or Co-Owner asking the removal of the mod before legal action may be taken.
-
+	B. The Owner hereby has all rights to the code used within this mod that was added by any push request or by The Co-Owner
+	C. The Owner may if he wants remove the contabuters name form the code (I probs wouldn't but I can)
 	
 This is a Copy and edited verson of https://github.com/UnRealDinnerbone/Yarm/blob/1.8/LICENSE.md
