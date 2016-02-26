@@ -39,9 +39,6 @@ public class PetRock {
         proxy.preInit();
         PRBlocks.load();
         PREntitys.load();
-        if(event.getSide().isClient()) {
-            RenderBlocks.RenderBlocks();
-        }
         //PRItems.load();
         //PRRecipes.load();
 
@@ -53,6 +50,9 @@ public class PetRock {
         //Do Stuff
         proxy.init();
         proxy.renderInformation();
+        if(event.getSide().isClient()) {
+            RenderBlocks.RenderBlocks();
+        }
     }
 
     //Post Init
