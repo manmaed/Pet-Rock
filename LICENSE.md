@@ -7,6 +7,7 @@ Section 1: Terms
 	A. This Mod or other similar terms mean Pet-Rock.
 	B. The term Owner means Manmaed
 	C. The term Co-Owner means UnRealDinnerBone
+	E. The Only License that should be followed on all branches is the one on the main branch! 
 
 Section 2: License
 
