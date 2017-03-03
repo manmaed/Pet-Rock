@@ -1,5 +1,5 @@
 {
-  "homepage": "http://raw.githubusercontent.com/manmaed/Pet-Rock/master/",
+  "homepage": "https://minecraft.curseforge.com/projects/petrock-mod",
   "promos": 
   {
     "1.10.2-latest": "5.2.0",
@@ -7,4 +7,9 @@
     "recommended": "5.2.0",
     "latest": "5.2.0"
   },
-}
+  
+  "1.10.2": {
+  "0.1.0": "See Curse",
+  "5.2.0": "See Curse"
+},
+  }
