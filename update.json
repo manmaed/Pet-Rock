@@ -2,14 +2,13 @@
   "homepage": "https://minecraft.curseforge.com/projects/petrock-mod",
   "promos": 
   {
-    "1.10.2-latest": "5.2.0",
-    "1.10.2-recommended": "5.2.0",
-    "recommended": "5.2.0",
-    "latest": "5.2.0"
+    "1.10.2-latest": "0.1.0",
+    "1.10.2-recommended": "0.1.0",
+    "recommended": "0.1.0",
+    "latest": "0.1.0"
   },
   
   "1.10.2": {
   "0.1.0": "See Curse",
-  "5.2.0": "See Curse"
 },
   }
