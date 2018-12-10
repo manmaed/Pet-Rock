@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "hat": "christmas",
-      "condition": {
-        "username": "uuid",
-        "date": {
-            "month": 12,
-            "day": 1
-        }
-      }
-    },
-    {
       "hat": "birthday",
       "condition": {
         "username": "uuid",
