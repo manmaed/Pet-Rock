@@ -3,12 +3,52 @@
     {
       "hat": "birthday",
       "condition": {
-        "username": "uuid",
+        "username": "manmaed",
+        "date": {
+            "month": 06,
+            "day": 30
+        }
+      }
+    },
+	{
+      "hat": "birthday",
+      "condition": {
+        "username": "Unrealdinndebone / Dinnerbeef",
         "date": {
           "month": 06,
           "day": 08
         }
       }
-    }
+    },
+	{
+      "hat": "birthday",
+      "condition": {
+        "username": "JoeNoIce",
+        "date": {
+            "month": 06,
+            "day": 08
+        }
+      }
+    },
+	{
+      "hat": "birthday",
+      "condition": {
+        "username": "Direwolf20",
+        "date": {
+            "month": 03,
+            "day": 20
+        }
+      }
+    },
+	{
+      "hat": "christmas",
+      "condition": {
+        "username": "christmas",
+        "date": {
+            "month": 12,
+            "day": 0
+        }
+      }
+    },
   ]
 }
