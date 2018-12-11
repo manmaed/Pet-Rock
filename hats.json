@@ -40,6 +40,26 @@
         }
       }
     },
+    {
+      "hat": "birthday",
+      "condition": {
+        "username": "Slowpoke101",
+        "date": {
+          "month": 6,
+          "day": 19
+        }
+      }
+    },
+    {
+      "hat": "birthday",
+      "condition": {
+        "username": "Sunekaer",
+        "date": {
+          "month": 99,
+          "day": 99
+        }
+      }
+    },
 	{
       "hat": "christmas",
       "condition": {
