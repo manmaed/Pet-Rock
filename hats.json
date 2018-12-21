@@ -89,16 +89,6 @@
             "day": 0
         }
       }
-    },
-    {
-      "hat": "birthday",
-      "condition": {
-        "username": "birthday",
-        "date": {
-          "month": 12,
-          "day": 21
-        }
-      }
     }
   ]
 }
