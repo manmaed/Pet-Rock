@@ -53,7 +53,7 @@
     {
       "hat": "halloween",
       "condition": {
-        "username": "christmas",
+        "username": "halloween",
         "date": {
           "month": 10,
           "day": 0
@@ -67,6 +67,16 @@
         "date": {
           "month": 10,
           "day": 20
+        }
+      }
+    },
+    {
+      "hat": "birthday",
+      "condition": {
+        "username": "christmas",
+        "date": {
+          "month": 12,
+          "day": 21
         }
       }
     },
