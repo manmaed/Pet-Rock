@@ -71,16 +71,6 @@
       }
     },
     {
-      "hat": "birthday",
-      "condition": {
-        "username": "christmas",
-        "date": {
-          "month": 12,
-          "day": 21
-        }
-      }
-    },
-    {
       "hat": "christmas",
       "condition": {
         "username": "christmas",
@@ -97,6 +87,16 @@
         "date": {
             "month": 12,
             "day": 0
+        }
+      }
+    },
+    {
+      "hat": "birthday",
+      "condition": {
+        "username": "birthday",
+        "date": {
+          "month": 12,
+          "day": 21
         }
       }
     }
