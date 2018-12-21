@@ -51,6 +51,16 @@
       }
     },
     {
+      "hat": "halloween",
+      "condition": {
+        "username": "christmas",
+        "date": {
+          "month": 10,
+          "day": 0
+        }
+      }
+    },
+    {
       "hat": "birthday",
       "condition": {
         "username": "Sunekaer",
