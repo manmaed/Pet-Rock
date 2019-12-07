@@ -70,6 +70,16 @@
         }
       }
     },
+	{
+      "hat": "birthday",
+      "condition": {
+        "username": "Loneztar",
+        "date": {
+          "month": 7,
+          "day": 15
+        }
+      }
+    },
     {
       "hat": "christmas",
       "condition": {
