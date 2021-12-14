@@ -1,0 +1,22 @@
+{
+"players": [
+		{
+			"user": {
+				"username": "manmaed",
+				"uuid": "2eebcb1a-f63e-4a80-b380-801a10f88d4e"
+			}
+		},
+		{
+			"user": {
+				"username": "minman182",
+				"uuid": "0ed61b61-c2b3-4d3d-b30f-9796a302d82b"
+			}
+		},
+		{
+		    "user": {
+			   "username": "Nax",
+			   "uuid": "06e45775-1d2e-4b2d-8ef4-bb23f8fb7639"
+			}
+		}
+	]
+}
